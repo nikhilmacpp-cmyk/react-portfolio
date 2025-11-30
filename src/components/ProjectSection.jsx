@@ -8,6 +8,14 @@ const projects = [
         imageUrl: '/projects/portfolio.png',
         tags: ['React', 'Tailwind CSS'],
         gitHubUrl: 'https://github.com/nikhilmacpp-cmyk/react-portfolio'
+    },
+     {
+        id: 2,
+        title: 'Custom PortFolio website',
+        description: 'An automated portfolio creation tool where users provide their information through a form, and the system builds a complete, responsive portfolio website based on their inputs.',
+        imageUrl: '/projects/customPortfolio.png',
+        tags: ['React', 'Tailwind CSS'],
+        gitHubUrl: 'https://github.com/nikhilmacpp-cmyk/customfolio'
     }
 ]
 
